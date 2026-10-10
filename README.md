@@ -1,6 +1,5 @@
 # NLP-Prediction-of-CV-Model-Difficulty
 
-# **Project Overview**
 This project will use clinical reports' free text to determine the level of difficulty for computer vision models. 
 
 Our group aims to use a public dataset to develop a machine learning model, before training and testing the model on the real data to predict the level of difficulty for the identification of NGT placement using a computer vision model.
