@@ -1,4 +1,4 @@
-# USING CLINICAL REPORT FREE TEXT TO DETERMINE THE LEVEL OF DIFFICULTY OF NASOGASTRIC TUBE PLACEMENT FOR A COMPUTER VISION MODEL
+# Using clinical report free text to determine the level of difficulty of nasogastric tube placement for a computer vision model
 
 This project will use clinical reports' free text to determine the level of difficulty for computer vision models. 
 
